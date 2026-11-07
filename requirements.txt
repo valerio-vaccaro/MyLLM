@@ -1,0 +1,5 @@
+torch>=2.1
+matplotlib>=3.7
+requests>=2.31   # only for scripts/download_full_texts.py
+tqdm>=4.66       # only for scripts/download_full_texts.py
+pytest>=8        # tests
